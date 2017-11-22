@@ -79,6 +79,11 @@ public class ImplLeakyStack<E> implements LeakyStack{
 		return head.getElement();
 	}
         
+        /**
+         * 
+         * @param lim Este es el límite máximo de historial
+         * @return 
+         */
         public String Animal(int lim){
             return "";
         }
