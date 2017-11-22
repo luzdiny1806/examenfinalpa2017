@@ -79,6 +79,9 @@ public class ImplLeakyStack<E> implements LeakyStack{
 		return head.getElement();
 	}
         
+        public String Animal(int lim){
+            return "";
+        }
             @Override
     public Object saveHistory(Object e) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
